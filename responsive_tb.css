@@ -1,0 +1,168 @@
+
+
+@media only screen and (max-width:999px) {
+
+
+  .header-container {
+    width: 90%;
+    max-width: 999px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .top-container {
+    width: 90%;
+    max-width: 990px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .top-right-up {
+    position: relative;
+    height: 50%;
+  }
+  .en {
+    top: 200px;
+    right: 100px;
+    left: auto;
+  }
+  .zh {
+    top: 250px;
+    right: 30px;
+    left: auto;
+  }
+  .kr {
+    top: 350px;
+    right: 50px;
+    left: auto;
+  }
+  .ja {
+    top: 100px;
+    right: 0;
+    left: auto;
+  }
+  .top-right-up-circle {
+    top: 300px;
+    right: 400px;
+    left: auto;
+  }
+
+  .top-right-bt {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: 50%;
+    width: 100%;
+  }
+  .top-right-bt-up {
+    position: relative;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .tp-smiles {
+    position: absolute;
+    right: 0;
+    display: flex;
+    height: 100px;
+    top: 90px;
+    right: -25px;
+  }
+  .tp-number {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 40px;
+    right: 0;
+  }
+
+  .tp-links a {
+    font-size: 30px;
+  }
+  .tp-links00 {
+    position: absolute;
+    top: 170px;
+    right: 0;
+    left: auto;
+  }
+  .tp-link01 {
+    top: 110px;
+    right: 0;
+    left: auto;
+  }
+  .tp-link02 {
+    top: 140px;
+    right: 0;
+    left: auto;
+  }
+  .tpAR-hv:hover {
+    font-size: 30px;
+  }
+  .tpArtworks-hv:hover {
+    font-size: 30px;
+  }
+  .tpMotion-hv {
+    font-size: 30px;
+  }
+  .tpPhoto-hv {
+    font-size: 30px;
+  }
+  .tpOther-hv {
+    font-size: 30px;
+  }
+  .tpProfile-hv {
+    font-size: 30px;
+  }
+
+
+  .container {
+    max-width: 999px;
+    width: 80%;
+  }
+
+  .b02-AR-QR {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+  }
+  .b02-AR-mock {
+    width: 540px;
+    height: auto;
+  }
+  .b02-4040dayIG {
+    width: 300px;
+    height: 300px;
+  }
+  .b02-4040dayIGV {
+    width: 300px;
+    height: 300px;
+  }
+  .body-mv-vertical {
+    width: 180px;
+    height: auto;
+  }
+
+
+  .Artworks-SAD-img {
+    width: 80%;
+    height: auto;
+  }
+
+  .body-SQ {
+    width: 300px;
+    height: auto;
+  }
+  .LA-logo {
+    width: 80%;
+    height: auto;
+  }
+
+  .tattoo-img {
+    width: 200px;
+    height: auto;
+  }
+}
